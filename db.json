@@ -1,0 +1,139 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "category": "gpu",
+      "name": "Placa de Vídeo MSI NVIDIA Geforce - RTX 3050, 6GB, DDR6, 96 Bits",
+      "brand": "MSI",
+      "description": "GPU: NVIDIA GeForce RTX 3050, arquitetura Ampere. Memória: 6GB GDDR6, otimizando gráficos e desempenho em jogos Full HD. Interface de Memória: 96 bits, equilibrando eficiência e velocidade. Resfriamento: Sistema otimizado para menor ruído e melhor dissipação de calor. Conectividade: HDMI e DisplayPort, suportando altas taxas de atualização. Aplicação: Excelente opção para gamers e criadores de conteúdo buscando um bom custo-benefício.",
+      "price": 1496.00,
+      "image": "https://m.media-amazon.com/images/I/51QaFKJf3+L._AC_SX569_.jpg"
+    },
+    {
+      "id": 2,
+      "category": "cpu",
+      "name": "Processador AMD Ryzen 7 5700G",
+      "brand": "AMD",
+      "description": "Processador AMD Ryzen 7 5700G 3.8 até 4.6GHZ 20MB AM4 Wraith Stealth Radeon - PN:100-100000263BOX",
+      "price": 1079.99,
+      "image": "https://m.media-amazon.com/images/I/51D3DrDmwkL._AC_SX569_.jpg"
+    },
+    {
+      "id": 3,
+      "category": "ram",
+      "name": "Memória Ram Gamer Adata XPG RGB 8GB DDR4 3200 Mhz",
+      "brand": "XPG",
+      "description": "A Memória 8GB XPG Spectrix D35G RGB DDR4 3200 Mhz - AX4U32008G16A-SBKD35G é a escolha definitiva para jogadores que buscam desempenho excepcional e estilo único. Seu design de contorno triangular composto adiciona um toque discreto e arrojado ao seu setup, enquanto o pequeno dissipador de calor permite fácil instalação mesmo em chassis compactos.",
+      "price": 620.00,
+      "image": "https://m.media-amazon.com/images/I/61GVMyoBZvL._AC_SX569_.jpg"
+    },
+    {
+      "id": 4,
+      "category": "teclado",
+      "name": "ATTACK SHARK X85 Teclado mecânico para jogos sem fio",
+      "brand": "ATTACK SHARK",
+      "description": "Este teclado RGB tem 19 modos de luz de fundo RGB, 7 modos de luz de fundo monocromáticos e 1 luz de fundo colorida. A iluminação pode ser personalizada por software e traz mais diversão para personalização, o que pode personalizar sua atmosfera de jogo ao máximo. Além disso, o teclado é totalmente compatível com os sistemas operacionais Mac e Windows, melhorando sua usabilidade e produtividade geral.",
+      "price": 379.99,
+      "image": "https://m.media-amazon.com/images/I/61eHWmt1RML._AC_SX569_.jpg"
+    },
+    {
+      "id": 5,
+      "category": "notebook",
+      "name": "Notebook ASUS VivoBook Go 15",
+      "brand": "ASUS",
+      "description": "AMD RYZEN 5 7520U, 8GB, 256GB SSD, KeepOS, Tela 15,6 FHD, Mixed Black - E1504FA-NJ731",
+      "price": 2377.18,
+      "image": "https://m.media-amazon.com/images/I/71TK+vh6JIL._AC_SX569_.jpg"
+    },
+    {
+      "id": 6,
+      "category": "gpu",
+      "name": "PLACA DE VIDEO ASUS DUAL RADEON RX 7600 EVO OC EDITION",
+      "brand": "ASUS",
+      "description": "RADEON RX 7600 EVO OC EDITION 8GB GDDR6 128 BITS - DUAL-RX7600-O8G-EVO",
+      "price": 1889.00,
+      "image": "https://m.media-amazon.com/images/I/81QItJufypL._AC_SX569_.jpg"
+    },
+    {
+      "id": 7,
+      "category": "controler",
+      "name": "PlayStation DualSense Controle sem fio – Branco",
+      "brand": "PLAYSTATION",
+      "description": "Eleve sua experiência de jogo com o controle sem fio DualSense para consoles PS5 oferecendo resposta tátil imersiva, gatilhos adaptáveis dinâmicos e um microfone embutido, tudo integrado a um design icônico.",
+      "price": 408.08,
+      "image": "https://m.media-amazon.com/images/I/51PmeLGEkML._AC_SX679_.jpg"
+    },
+    {
+      "id": 8,
+      "category": "mouse",
+      "name": "Mouse Gamer ATTACK SHARK R1 Sem Fio",
+      "brand": "ATTACK SHARK",
+      "description": "O Mouse Gamer ATTACK SHARK R1 combina desempenho e estilo em um design branco moderno e ergonômico. Equipado com sensor PAW3311 de até 18.000 DPI, oferece precisão extrema e resposta imediata em qualquer jogo. Seu sistema sem fio de baixa latência garante liberdade total sem perda de desempenho, enquanto o RGB dinâmico adiciona um toque de personalidade à sua estação de batalha.",
+      "price": 169.99,
+      "image": "https://m.media-amazon.com/images/I/51Dn9xtU8uL._AC_SX569_.jpg"
+    },
+    {
+      "id": 9,
+      "category": "monitor",
+      "name": "AOC, Monitor Gamer G4 24 pol",
+      "brand": "AOC",
+      "description": "Potencialize seu desempenho com o Monitor Gamer AOC G4 de 24 polegadas. Projetado para jogadores que buscam uma experiência de ponta, ele combina velocidade e qualidade visual para te dar uma vantagem competitiva. Com a taxa de atualização de 180Hz e o tempo de resposta de 0,5ms MPRT, você terá movimentos incrivelmente fluidos e precisos. A compatibilidade com a tecnologia NVIDIA G-Sync garante uma jogabilidade sem interrupções, sincronizando perfeitamente a imagem. A tecnologia HDR intensifica o contraste e o brilho da imagem.",
+      "price": 699.00,
+      "image": "https://m.media-amazon.com/images/I/71Qt-mok7UL._AC_SX569_.jpg"
+    },
+    {
+      "id": 10,
+      "category": "cpu",
+      "name": "Processador AMD Ryzen 5 8600G Box",
+      "brand": "AMD",
+      "description": "Processador AMD Ryzen 5 8600G Box (AM5/6 Cores/12 Threads/5.0GHz/22MB Cache/Wraith Stealth / Radeon 760M/AMD Ryzen AI)",
+      "price": 999.99,
+      "image": "https://m.media-amazon.com/images/I/615TPN-DayL._AC_SY300_SX300_QL70_ML2_.jpg"
+    },
+    {
+      "id": 11,
+      "category": "smartphone",
+      "name": "Smartphone Motorola Moto g86 5G",
+      "brand": "MOTOROLA",
+      "description": "Descubra o moto g86 5G, criado para quem curte ir além. Feito com materiais premium, ele tem um design ousado e ultrarresistência incomparável26 - IP68 | IP69 e MIL STD. Veja tudo na melhor tela da categoria, com maior brilho25 com 1.5K de resolução e curta o som estéreo Dolby Atmos®. Tire fotos incríveis com a única câmera Sony - LYTIA™ de 50 MP com moto ai12 da categoria. Capture cada detalhe em selfies precisas com a melhor câmera frontal da categoria28. Conte com mais de 41 horas de bateria em poucos minutos com o carregador TurboPower™1, 13 e, com o Circule para pesquisar27 , descubra tudo sobre qualquer imagem, vídeo ou texto com o Google. Viva grandes aventuras com o moto g86 5G.",
+      "price": 1538.73,
+      "image": "https://m.media-amazon.com/images/I/514xNqIfRZL._AC_SX522_.jpg"
+    },
+    {
+      "id": 12,
+      "category": "ssd",
+      "name": "SSD Kingston NV3 1TB M.2 2280 NVMe Gen4",
+      "brand": "KINGSTON",
+      "description": "Atualize seu PC com o SSD Kingston NV3 e experimente mais velocidade e eficiência! Com 1TB de capacidade, interface NVMe Gen4 e formato M.2 2280, ele acelera o carregamento de sistemas, jogos e aplicativos. Ideal para quem busca um upgrade acessível, confiável e com desempenho superior em qualquer rotina.",
+      "price": 943.99,
+      "image": "https://m.media-amazon.com/images/I/71c5uuoM1bL._AC_SX569_.jpg"
+    },
+    {
+      "id": 13,
+      "category": "ram",
+      "name": "memórias de 16GB (2 x 8GB) DIMM DDR4 3200Mhz FURY",
+      "brand": "KINGSTON",
+      "description": "Kit de memórias de 16GB (2 x 8GB) DIMM DDR4 3200Mhz FURY Beast Black 1,35V 1Rx8 288 pinos para desktop/gamers",
+      "price": 1043.66,
+      "image": "https://m.media-amazon.com/images/I/61uXihcspuL._AC_SX569_.jpg"
+    },
+    {
+      "id": 14,
+      "category": "mouse",
+      "name": "Mouse Gamer Sem Fio Logitech G305 LIGHTSPEED",
+      "brand": "LOGITECH",
+      "description": "O G305 apresenta o sensor HERO de última geração com sensibilidade de 200 a 12.000 DPI para precisão de nível de competição. A tecnologia sem fio LIGHTSPEED oferece desempenho super rápido de 1ms. Com incrível eficiência de energia, permanece ligado e pronto para jogar por até 250 horas com uma única pilha AA inclusa. Jogue em qualquer lugar com este mouse para jogos ultra-portátil e leve que pesa apenas 99 gramas, é fácil de transportar com você e tem armazenamento integrado para o receptor sem fio USB incluso. Use o Software Logitech G HUB para programar rapidamente os 6 botões com comandos instantâneos, configurações de DPI e muito mais. O G305 é o mouse sem fio LIGHTSPEED para todos.",
+      "price": 192.75,
+      "image": "https://m.media-amazon.com/images/I/51sg9BLSMTL._AC_SX569_.jpg"
+    },
+    {
+      "id": 15,
+      "category": "gabine",
+      "name": "Gabinete Gamer Redragon Wideload Pro",
+      "brand": "REDRAGON",
+      "description": "O Gabinete Gamer Redragon Wideload Pro Branco é a combinação perfeita de estilo e funcionalidade. Equipado com portas USB 3.0 e 2.0, oferece conectividade superior. Seu design aquário com vidro panorâmico destaca seu hardware, enquanto o espaço interno generoso garante excelente ventilação e suporte para refrigeração líquida.",
+      "price": 447.00,
+      "image": "https://m.media-amazon.com/images/I/61EFNhsLQ7L._AC_SX569_.jpg"
+    }
+  ]
+}
